@@ -161,7 +161,9 @@ p{
     margin: 0 8px;
 }
 
-
+#sobre-mi h3{
+    font-size: 15px;
+}
 
 @media (max-width: 750px) {
     #contacto, #inicio {
