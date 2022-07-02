@@ -10,6 +10,12 @@ body{
     background-image: url("../images/fondo-proyectos.png");
     background-size: cover;
 }
+nav .active{
+    border: 1px solid;
+    border-radius: 20px;
+    border-color: #E20000;
+     
+}
 h1{
     color: #E20000;
 }
@@ -164,6 +170,31 @@ p{
 #sobre-mi h3{
     font-size: 15px;
 }
+#tecnologias .row{
+    padding: 10px;
+    margin: auto;
+}
+#tecnologias{
+    background: linear-gradient(to right, rgba(184, 37, 20, 1) 0%, rgba(214, 52, 30, 1) 47%, rgba(240, 47, 23, 1) 70%, rgba(240, 47, 23, 1) 100%);
+    padding-bottom: 20px;
+}
+#tecnologias img{
+    height: 50px;
+}
+#tecnologias h3{
+    font-size: 14px;
+}
+.text-white{
+    font-size: 20px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    margin-left: 20px;
+
+}
+
+
+
+    
 
 @media (max-width: 750px) {
     #contacto, #inicio {
