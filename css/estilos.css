@@ -300,7 +300,7 @@ p {
     background-color: #370a6d;
     font-size: 100px;
     display: inline-block;
-    
+
 
 }
 
@@ -323,9 +323,6 @@ p {
 }
 
 
-
-
-
 @media (max-width: 750px) {
 
     #contacto,
@@ -333,10 +330,11 @@ p {
         background-image: url("../images/fondo-proyectos.png");
         background-size: contain;
         background-repeat: no-repeat;
-        
+
     }
 
-    #proyectos, footer .fa-github {
+    #proyectos,
+    footer .fa-github {
         background-size: contain;
         background-repeat: no-repeat;
         margin: 10px;
@@ -347,14 +345,18 @@ p {
         font-size: 16px;
         border: 1px #E20000 solid;
     }
-    #contacto footer .fa-github, #inicio footer .fa-github{
+
+    #contacto footer .fa-github,
+    #inicio footer .fa-github {
         color: #ff4a49;
         background-color: white;
         margin: 10px;
     }
-    #contacto .link, #inicio .link{
+
+    #contacto .link,
+    #inicio .link {
         color: #E20000;
-    
+
     }
-    
-    }
+
+}
