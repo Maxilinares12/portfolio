@@ -35,7 +35,7 @@ $pg = "sobre-mi";
                 </div>
                 
                 <div class="col-6 py-5">
-                    <a href="contacto.html" class="btn btn-rojo">Enviar Mensaje</a>
+                    <a href="contacto.php" class="btn btn-rojo">Enviar Mensaje</a>
                 </div>
 
             </div>

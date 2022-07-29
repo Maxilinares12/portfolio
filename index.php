@@ -25,7 +25,7 @@ $pg = "inicio";
     <main class="container">
         <div class="row">
             <div class="col-12 mx-auto text-center cohete">
-                <a href="proyectos.html"><img src="images/cohete.svg" alt=""></a>
+                <a href="proyectos.php"><img src="images/cohete.svg" alt=""></a>
             </div>
             <div class="col-12 col-sm-6 offset-sm-3 text-center">
                 <div class="my-4">
@@ -33,7 +33,7 @@ $pg = "inicio";
                 </div>
             </div>
             <div class="col-12 text-center pt-3 pb-5">
-                <a href="proyectos.html" class="btn shadow">Conoce mis proyecto</a>
+                <a href="proyectos.php" class="btn shadow">Conoce mis proyectos</a>
             </div>
         </div>
     </main>
